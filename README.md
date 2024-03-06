@@ -7,6 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/johnhcolani/Exercise_woven/assets/91166301/4abe7a92-4167-4902-80e6-08d61ccc4b5a" width="200" >
 ![p1 width:100px](https://github.com/johnhcolani/Exercise_woven/assets/91166301/8e6721eb-aad0-400a-b002-65d73fd6f56e)
 ![p2](https://github.com/johnhcolani/Exercise_woven/assets/91166301/4abe7a92-4167-4902-80e6-08d61ccc4b5a)
 <img src="https://github.com/johnhcolani/Exercise_woven/assets/91166301/4abe7a92-4167-4902-80e6-08d61ccc4b5a" width="300" height="200">
